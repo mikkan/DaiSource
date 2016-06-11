@@ -1,0 +1,32 @@
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.exe.config
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.csprojResolveAssemblyReference.cache
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.NewGame.resources
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.Properties.Resources.resources
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.csproj.GenerateResource.Cache
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.exe
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.pdb
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.exe
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.pdb
+D:\Ô Ăn Quan\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.Form_OAnQuan.resources
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.exe.config
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.exe
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.pdb
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.exe
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.pdb
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.csprojResolveAssemblyReference.cache
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.Form_OAnQuan.resources
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.NewGame.resources
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.Properties.Resources.resources
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.csproj.GenerateResource.Cache
+E:\HỌC\HK6\DoAn\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.Form_BatDau.resources
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.exe.config
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.exe
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.pdb
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.csprojResolveAssemblyReference.cache
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.Form_BatDau.resources
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.Form_OAnQuan.resources
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.NewGame.resources
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.Properties.Resources.resources
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\obj\Debug\DoAnXayDungPhanMem.csproj.GenerateResource.Cache
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.exe
+D:\Ô Ăn Quan\DoAnXayDungPhanMem (1)\DoAnXayDungPhanMem\DoAnXayDungPhanMem\bin\Debug\DoAnXayDungPhanMem.pdb
